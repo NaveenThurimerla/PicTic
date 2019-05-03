@@ -1,0 +1,7 @@
+>git init
+>git add.
+>git commit -m "Messsage"
+>git remote add origin https://github.com/NaveenThurimerla/PicTic.git
+>git rebase origin/master
+>git push -u origin master
+>git pull -u origin master
