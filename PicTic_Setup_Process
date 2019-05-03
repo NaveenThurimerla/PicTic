@@ -5,3 +5,4 @@
 >pip install django
 >py -m django --version
 >django-admin startproject PicTic
+>py manage.py startapp polls
