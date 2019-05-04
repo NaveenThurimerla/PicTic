@@ -6,3 +6,6 @@
 >py -m django --version
 >django-admin startproject PicTic
 >py manage.py startapp polls
+>python manage.py makemigrations polls
+>python manage.py migrate
+>python manage.py createsuperuser
